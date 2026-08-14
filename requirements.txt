@@ -1,0 +1,10 @@
+# 入门篇依赖(本阶段仅使用标准库)
+# 进阶/高级阶段可能用到
+pytest>=7.4.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+manim>=0.18.0
+flask>=3.0.0
